@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b6fa936-b041-44d9-80e6-93a66da9c262" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/Assets/UIFramework/Core/UILayer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFramework/Core/UILayer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFramework/UIFrame.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFramework/UIFrame.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFramework/Window/AWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFramework/Window/WindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFramework/Window/AWindowController.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFramework/Window/WindowController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Prefabs/Screens/CameraProjectionWindow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Prefabs/Screens/CameraProjectionWindow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Prefabs/Screens/PopupExampleWindow.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Prefabs/Screens/PopupExampleWindow.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/CameraProjectionWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/CameraProjectionWindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/ConfirmationPopupController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/ConfirmationPopupController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/EmptyWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/EmptyWindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PlayerWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PlayerWindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PopupExampleWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PopupExampleWindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/StartWindowController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/StartWindowController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/UserSettings/Layouts/default-2021.dwlt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCB96497-F234-4006-816D-6130A29C3FCB/fe/239de15a/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCB96497-F234-4006-816D-6130A29C3FCB/b7/b33567a5/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCB96497-F234-4006-816D-6130A29C3FCB/07/30328ecb/Component.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/CCB96497-F234-4006-816D-6130A29C3FCB/b1/59d68069/Behaviour.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/AUILayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ScreenTransitions/AniComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ScreenTransitions/AnimationView.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ScreenTransitions/FadeAni.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenTransitions/ScaleScreenAni.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenTransitions/SlideScreenAni.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/StartWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/ViewControllerInterfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/ViewPropertyInterfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/UIViewController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/ScreenControllerInterfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/ScreenPropertyInterfaces.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/UIScreenController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Panel/PanelPriority.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Panel/PanelProperties.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Panel/PanelUILayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ViewAnimation/AniComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ViewAnimation/AnimationView.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/ViewAnimation/FadeAni.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/AWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowHistoryEntry.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowParaLayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowPriority.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowProperties.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowUILayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/UISettings.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Editor/UIFrameworkTools.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/Editor/ScreenIdGenerator.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/Extras/FakePlayerData.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/EmptyWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/NavigationPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/External/Signals.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PlayerWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/ToastPanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/Widgets/UIFollowComponent.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/UIDemoController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/ConfirmationPopupController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/PopupExampleWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFrameworkExamples/Scripts/ScreenControllers/CameraProjectionWindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Panel/PanelController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Core/UILayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/Window/WindowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/UIFramework/UIFrame.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2emC8M9iBlJquEs4PwViooprkVL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b6fa936-b041-44d9-80e6-93a66da9c262" name="Default Changelist" comment="" />
+      <created>1712500208470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712500208470</updated>
+      <workItem from="1712500217764" duration="36000" />
+      <workItem from="1712500442920" duration="1945000" />
+      <workItem from="1713610755802" duration="1722000" />
+      <workItem from="1713667823441" duration="658000" />
+      <workItem from="1713668510011" duration="1298000" />
+      <workItem from="1713673742651" duration="5923000" />
+      <workItem from="1713679732984" duration="796000" />
+      <workItem from="1713680674014" duration="118000" />
+      <workItem from="1713680808280" duration="371000" />
+      <workItem from="1713880332240" duration="3690000" />
+      <workItem from="1714184470928" duration="16318000" />
+      <workItem from="1714264682066" duration="1392000" />
+      <workItem from="1714351778586" duration="5658000" />
+      <workItem from="1714396265503" duration="6316000" />
+      <workItem from="1714438600632" duration="5989000" />
+      <workItem from="1714446796112" duration="6545000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="544" y="187" key="PlantUMLSettings2" timestamp="1713680891233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="544" y="187" key="PlantUMLSettings2/0.0.1920.1040@0.0.1920.1040" timestamp="1713680891233" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1714225398308">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1714225398308" />
+    <state x="2012" y="92" width="1736" height="856" key="VCS.FileHistoryDialog" timestamp="1714401563785">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1712501754267" />
+    <state x="2012" y="92" width="1736" height="856" key="VCS.FileHistoryDialog/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1714401563785" />
+    <state x="2529" y="252" width="979" height="594" key="find.popup" timestamp="1714486400528">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="609" y="252" width="979" height="594" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1714226827643" />
+    <state x="2529" y="252" width="979" height="594" key="find.popup/1920.0.1920.1040/0.0.1920.1040@1920.0.1920.1040" timestamp="1714486400528" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1713680423409">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1713680423409" />
+  </component>
+</project>
